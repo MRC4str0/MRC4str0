@@ -28,3 +28,34 @@
 <div align="center">
   <img src="https://media.giphy.com/media/HWeDbN44WqITK/giphy.gif" width="800" height="300"/>
 </div>  
+
+<div id="about" align="center">
+  <h1>
+    <br>
+    👨‍💻 Sobre Mim
+  </h1>
+  Só mais um jovem curioso!<br><br>
+* Atualmente trabalhando no meu portifólio 📘<br>
+* Amante de Python 🐍<br>
+* Foco em Data Science 👾<br>
+</div>
+
+<div id="langs" align="center">
+  <h1>
+    <br>
+    🛠️ Proficiências
+  </h1>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="70" height="70"/>&nbsp
+</div>  
+
+<div align="center">
+  <h1>
+    <br>
+    🍁 Status
+  </h1>  
+  <a href="https://github.com/MRC4str0">
+    <img src="https://github-readme-stats.vercel.app/api?username=MRC4str0&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&locale=pt-br"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRC4str0&theme=midnight-purple&hide_border=true&locale=pt-br"/>
+  </a> 
+</div>
