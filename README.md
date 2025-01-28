@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.instagram.com/__mrc.str.0/profilecard/?igsh=MjVjeXk3cW9sb3o4">
+  <a href="https://www.instagram.com/__mrc.str.0">
     <img src="https://img.shields.io/static/v1?label=Instagram&message=@__mrc.str.0&color=red&style=for-the-badge&logo=Instagram"/>
   </a>
   <br>
